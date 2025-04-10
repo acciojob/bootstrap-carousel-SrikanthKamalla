@@ -1,1 +1,12 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+ .carousel-inner > .item {
+            height: 400px; /* Set a fixed height for slides */
+            color: white;
+            text-align: center;
+            line-height: 400px;
+            font-size: 2em;
+        }
+.item{
+	background-color:gray;
+	color:black;
+}
